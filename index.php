@@ -35,36 +35,25 @@ curl_close($ch);
         display: flex;
         justify-content: center;
         align-items: center;
-    
-        /* Ocupa toda la altura de la ventana */
         margin: 0;
-        /* Elimina los márgenes predeterminados */
-
         font-family: Arial, sans-serif;
     }
 
     main {
         text-align: center;
-        /* Centra el texto dentro del main */
         background-color: rgb(64, 64, 64);
         padding: 2rem;
-        /* Espaciado interno */
         border-radius: 10px;
-        /* Esquinas redondeadas */
         box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-        /* Sombra ligera */
         max-width: 400px;
-        /* Limita el ancho */
         width: 100%;
-        /* Asegura que se ajuste en pantallas pequeñas */
+
     }
 
     img {
         max-width: 100%;
-        /* La imagen no debe desbordar su contenedor */
-        /* Mantiene la proporción de la imagen */
         border-radius: 5px;
-        /* Esquinas redondeadas en la imagen */
+
     }
 </style>
 
