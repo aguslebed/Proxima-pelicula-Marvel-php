@@ -1,0 +1,2 @@
+Recarga automatica de la pagina: browser-sync start --proxy "localhost:3000" --files "**/*.php, **/*.css, **/*.js"
+Ver la pagina: 			 php -S localhost:3000
