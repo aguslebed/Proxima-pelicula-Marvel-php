@@ -23,7 +23,7 @@ curl_close($ch);
 ?>
 
 <head>
-    <title>Ejemplo</title>
+    <title>Proximas peliculas de marvel 🦸‍♀️</title>
 </head>
 
 <style>
