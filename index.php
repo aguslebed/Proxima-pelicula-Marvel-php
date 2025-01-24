@@ -82,7 +82,8 @@ curl_close($ch);
             <h3>Se estrena en <?= $data["days_until"] ?> dias. (<?= $data["release_date"] ?>)</h3>
             <p><?= $data["overview"] ?></p>
         </hgroup>
-
+<hr>
+<br>
         <section>
             <img src=<?= $data["following_production"]["poster_url"] ?> alt="Poster de la siguiente pelicula">
         </section>
