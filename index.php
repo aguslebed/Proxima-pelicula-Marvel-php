@@ -24,6 +24,7 @@ curl_close($ch);
 
 <head>
     <title>Proximas peliculas de marvel 🦸‍♀️</title>
+    <link rel="shortcut icon" href="icono-pestaña.png">
 </head>
 
 <style>
